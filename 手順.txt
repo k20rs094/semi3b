@@ -2,3 +2,7 @@ git add .
 git commit .
 git commit -m "??"
 git push .
+
+visual studio code U...変更有り
+visual studio code A...コミット完了
+visual studio code M...？？？？
